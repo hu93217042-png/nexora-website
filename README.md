@@ -44,7 +44,7 @@ npm run start
 
 ## Portfolio Context
 
-This is a personal front-end concept created from fictional product information. It was developed with support from AI-assisted tools, and the implementation was reviewed by the developer. The project demonstrates visual design implementation, responsive front-end structure, client-side scripting, and deployment.
+This is a personal front-end concept created from fictional product information. The implementation was reviewed by the developer. The project demonstrates visual design implementation, responsive front-end structure, client-side scripting, and deployment.
 
 ## Author
 
